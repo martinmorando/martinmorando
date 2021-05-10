@@ -1,8 +1,9 @@
 # Projects
 - Teaching about bitcoin, privacy & cybersecurity at **[cripto.wiki](https://cripto.wiki)**
 - Developing **[Jekyll Theme Vita](https://github.com/martinmorando/jekyll-theme-vita)**
-- Documenting Bitcoin's World Domination from Argentina's point of view at **[r/CriptoArgentina](https://www.reddit.com/r/CriptoArgentina)**
 - Documenting the pandemic from Argentina's point of view at **[r/CoronavirusArgentina](https://www.reddit.com/r/CoronavirusArgentina)**
+- Documenting Bitcoin's World Domination from Argentina's point of view at **[r/CriptoArgentina](https://www.reddit.com/r/CriptoArgentina)**
+- Documenting the progress in the declassification of information on UFOs from Argentina's point of view at **[r/ProyectoOVNI](https://www.reddit.com/r/ProyectoOVNI)**
 
 # Writings
 - 06/2019: [Mucho más que un padre](https://mundomorando.com/2019/06/16/mucho-mas-que-un-padre/)
