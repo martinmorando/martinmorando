@@ -1,6 +1,7 @@
 # Projects
 - Teaching about bitcoin, privacy & cybersecurity at **[cripto.wiki](https://cripto.wiki)**
 - Developing **[Jekyll Theme Vita](https://github.com/martinmorando/jekyll-theme-vita)**
+- Documenting Bitcoin's World Domination from Argentina's point of view at **[r/CriptoArgentina](https://www.reddit.com/r/CriptoArgentina)**
 - Documenting the pandemic from Argentina's point of view at **[r/CoronavirusArgentina](https://www.reddit.com/r/CoronavirusArgentina)**
 
 # Writings
