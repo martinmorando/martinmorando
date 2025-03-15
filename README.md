@@ -1,4 +1,8 @@
 ## Hi there 👋
+I share my code on GitHub as I prepare for my next major project or job opportunity.
+- Currently exploring: [C++](https://github.com/martinmorando/cpp), [Go](https://github.com/martinmorando/golang), [Java](https://github.com/martinmorando/java), [Ruby](https://github.com/martinmorando/ruby).
+- Aiming to master: [JavaScript](https://github.com/martinmorando/js), [PHP](https://github.com/martinmorando/php), [Python](https://github.com/martinmorando/python).
+
 
 ## My Story
 I started programming in 2010, inspired by watching *The Social Network* and realizing I could do more than just be a follower of technological news. Under the name *[doctortino](https://instagram.com/doctortino)*, I've launched several projects using the LAMP stack, primarily as a means of learning and artistic expression, while not giving the necessary attention to marketability.
@@ -10,12 +14,6 @@ Over the past two years, I've realized that my low profile has backfired, as rec
 Now, I'm opening up more to the world while systematically learning and experimenting. I am determined to keep pushing forward until the spark ignites.
 
 *"The truth will set you free."*
-
-## Repositories
-I share my code on GitHub as I prepare for my next major project or job opportunity.
-
-- Currently exploring: [C++](https://github.com/martinmorando/cpp), [Go](https://github.com/martinmorando/golang), [Java](https://github.com/martinmorando/java), [Ruby](https://github.com/martinmorando/ruby).
-- Aiming to master: [JavaScript](https://github.com/martinmorando/js), [PHP](https://github.com/martinmorando/php), [Python](https://github.com/martinmorando/python).
 
 ## Recent Courses
 Some courses I completed on Codecademy, which is an excellent platform for learning through hands-on experience at a small fraction of the cost of overpriced traditional universities.
