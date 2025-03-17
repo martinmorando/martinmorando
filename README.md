@@ -1,7 +1,7 @@
 ## Hi there 👋
 I share my code on GitHub as I prepare for my next major project or job opportunity.
-- Currently exploring: [C++](https://github.com/martinmorando/cpp), [Go](https://github.com/martinmorando/golang), [Java](https://github.com/martinmorando/java), [Ruby](https://github.com/martinmorando/ruby).
-- Aiming to master: [JavaScript](https://github.com/martinmorando/js), [PHP](https://github.com/martinmorando/php), [Python](https://github.com/martinmorando/python).
+- Projects: [criptowiki](https://criptowiki.com), [BitcoinArgy](https://bitcoinargy.com)
+- Notes and experiments: [C++](https://github.com/martinmorando/cpp), [Go](https://github.com/martinmorando/golang), [Java](https://github.com/martinmorando/java), [JavaScript](https://github.com/martinmorando/js), [PHP](https://github.com/martinmorando/php), [Python](https://github.com/martinmorando/python), [R](https://github.com/martinmorando/r), [Ruby](https://github.com/martinmorando/ruby)
 
 
 ## My Story
