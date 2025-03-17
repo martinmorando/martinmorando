@@ -20,6 +20,7 @@ Some courses I completed on Codecademy, which is an excellent platform for learn
 
 | Course    		                                                                                                                 | Hours (~) |
 |--------------------------------------------------------------------------------------------------------------------------------|-----------|
+| [Learn PHP Skill Path](https://www.codecademy.com/profiles/martinmorando/certificates/9b7bcc38d0ed49f593228763cbfd51e3)        | 17        |
 | [Learn Go](https://www.codecademy.com/profiles/martinmorando/certificates/60773d2e920679c8e46ff634b9ed2e6e)                    | 6         |
 | [Learn C++](https://www.codecademy.com/profiles/martinmorando/certificates/b74a2390dfc4127fa5d43fe147425ad0) 			  	         | 11        |
 | [Learn Advanced Python 3](https://www.codecademy.com/profiles/martinmorando/certificates/9360ffd5f85216dc4fbe5b19fe1db5e4) 	   | 6         |
