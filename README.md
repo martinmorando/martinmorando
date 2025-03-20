@@ -20,7 +20,7 @@ Some courses I completed on Codecademy, which is an excellent platform for learn
 
 | Course    		                                                                                                                 | Hours (~) | Date completed |
 |--------------------------------------------------------------------------------------------------------------------------------|-----------|----------------|
-| [Learn Statistics with NumPy Course](https://www.codecademy.com/profiles/martinmorando/certificates/43135f7494712f4c3b1ced1a55be7be1) | 4  | 20/03/25       |
+| [Learn Statistics with NumPy](https://www.codecademy.com/profiles/martinmorando/certificates/43135f7494712f4c3b1ced1a55be7be1) | 4  | 20/03/25       |
 | [Learn PHP Skill Path](https://www.codecademy.com/profiles/martinmorando/certificates/9b7bcc38d0ed49f593228763cbfd51e3)        | 17        | 17/03/25       |
 | [Learn Go](https://www.codecademy.com/profiles/martinmorando/certificates/60773d2e920679c8e46ff634b9ed2e6e)                    | 6         | 14/03/25       |
 | [Learn C++](https://www.codecademy.com/profiles/martinmorando/certificates/b74a2390dfc4127fa5d43fe147425ad0) 			  	         | 11        | 04/03/25       |
