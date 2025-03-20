@@ -18,16 +18,17 @@ Now, I'm opening up more to the world while systematically learning and experime
 ## Recent Courses
 Some courses I completed on Codecademy, which is an excellent platform for learning through hands-on experience at a small fraction of the cost of overpriced traditional universities.
 
-| Course    		                                                                                                                 | Hours (~) | Date completed     |
-|--------------------------------------------------------------------------------------------------------------------------------|-----------|--------------------|
-| [Learn PHP Skill Path](https://www.codecademy.com/profiles/martinmorando/certificates/9b7bcc38d0ed49f593228763cbfd51e3)        | 17        | 17/03/25           |
-| [Learn Go](https://www.codecademy.com/profiles/martinmorando/certificates/60773d2e920679c8e46ff634b9ed2e6e)                    | 6         | 14/03/25           |
-| [Learn C++](https://www.codecademy.com/profiles/martinmorando/certificates/b74a2390dfc4127fa5d43fe147425ad0) 			  	         | 11        | 04/03/25           |
-| [Learn Advanced Python 3](https://www.codecademy.com/profiles/martinmorando/certificates/9360ffd5f85216dc4fbe5b19fe1db5e4) 	   | 6         | 01/03/25           |
-| [Learn Intermediate Python 3](https://www.codecademy.com/profiles/martinmorando/certificates/18580789eaba28f09e116f4fc2acec44) | 20        | 20/02/25           |
-| [Learn Python 3](https://www.codecademy.com/profiles/martinmorando/certificates/6c152bd262967f8c941c9707ed636bda)     	       | 23        | 03/02/25           |
-| [Learn the Command Line](https://www.codecademy.com/profiles/martinmorando/certificates/c87ba0541f8be78bc2f4ba1128233f6f)      | 4         | 28/01/25           |
-| [Learn SQL](https://www.codecademy.com/profiles/martinmorando/certificates/042a4e5884e3eb6ea1f2a12be6abb851)     	             | 5         | 24/01/25           |
+| Course    		                                                                                                                 | Hours (~) | Date completed |
+|--------------------------------------------------------------------------------------------------------------------------------|-----------|----------------|
+| [Learn Statistics with NumPy Course](https://www.codecademy.com/profiles/martinmorando/certificates/43135f7494712f4c3b1ced1a55be7be1) | 4  | 20/03/25       |
+| [Learn PHP Skill Path](https://www.codecademy.com/profiles/martinmorando/certificates/9b7bcc38d0ed49f593228763cbfd51e3)        | 17        | 17/03/25       |
+| [Learn Go](https://www.codecademy.com/profiles/martinmorando/certificates/60773d2e920679c8e46ff634b9ed2e6e)                    | 6         | 14/03/25       |
+| [Learn C++](https://www.codecademy.com/profiles/martinmorando/certificates/b74a2390dfc4127fa5d43fe147425ad0) 			  	         | 11        | 04/03/25       |
+| [Learn Advanced Python 3](https://www.codecademy.com/profiles/martinmorando/certificates/9360ffd5f85216dc4fbe5b19fe1db5e4) 	   | 6         | 01/03/25       |
+| [Learn Intermediate Python 3](https://www.codecademy.com/profiles/martinmorando/certificates/18580789eaba28f09e116f4fc2acec44) | 20        | 20/02/25       |
+| [Learn Python 3](https://www.codecademy.com/profiles/martinmorando/certificates/6c152bd262967f8c941c9707ed636bda)     	       | 23        | 03/02/25       |
+| [Learn the Command Line](https://www.codecademy.com/profiles/martinmorando/certificates/c87ba0541f8be78bc2f4ba1128233f6f)      | 4         | 28/01/25       |
+| [Learn SQL](https://www.codecademy.com/profiles/martinmorando/certificates/042a4e5884e3eb6ea1f2a12be6abb851)     	             | 5         | 24/01/25       |
 
 <!--
 **martinmorando/martinmorando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
