@@ -24,6 +24,7 @@ Some courses I completed on Codecademy, which is an excellent platform for learn
 
 | Course    		                                                                                                                 | Hours (~) | Date completed |
 |--------------------------------------------------------------------------------------------------------------------------------|-----------|----------------|
+| [Learn Go: Loops, Arrays, Maps, and Structs](https://www.codecademy.com/profiles/martinmorando/certificates/c5a07b3444c44fb0b3883075c5af51f4) | 4 | 26/03/25|
 | [Learn JavaScript](https://www.codecademy.com/profiles/martinmorando/certificates/705dcb15de0da4dd9d9fc4f3274b430e)            | 15        | 24/03/25       |
 | [Learn Statistics with NumPy](https://www.codecademy.com/profiles/martinmorando/certificates/43135f7494712f4c3b1ced1a55be7be1) | 4         | 20/03/25       |
 | [Learn PHP Skill Path](https://www.codecademy.com/profiles/martinmorando/certificates/9b7bcc38d0ed49f593228763cbfd51e3)        | 17        | 17/03/25       |
