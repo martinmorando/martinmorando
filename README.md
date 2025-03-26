@@ -1,31 +1,28 @@
 ## Hi there 👋
 I share my code on GitHub as I prepare for my next major project or job opportunity.
-- Projects
+- **Projects**
   - [criptowiki.com](https://criptowiki.com): learn about Bitcoin, privacy & cybersecurity
   - [BitcoinArgy.com](https://bitcoinargy.com): bitcoin news aggregator focused on Argentina with a worldwide perspective
-- Notes, code, and experiments
+- **Notes, Code, and Experiments**
   - Languages: [Bash](https://github.com/martinmorando/bash), [C++](https://github.com/martinmorando/cpp), [Go](https://github.com/martinmorando/golang), [HTML/CSS](https://github.com/martinmorando/htmlcss), [Java](https://github.com/martinmorando/java), [JavaScript](https://github.com/martinmorando/js), [PHP](https://github.com/martinmorando/php), [Python](https://github.com/martinmorando/python), [R](https://github.com/martinmorando/r), [Ruby](https://github.com/martinmorando/ruby)
   - Computer Science: [Data Structures & Algorithms (DSA)](https://github.com/martinmorando/dsa)
+- **Recent Courses**[^1] [^2]:
+  - 26/03/25: [Learn Bash Scripting (1h)](https://www.codecademy.com/profiles/martinmorando/certificates/37c55263a9f1b1f7603f7551c293ecbd)
+  - 26/03/25: [Learn Go: Loops, Arrays, Maps, and Structs (4h)](https://www.codecademy.com/profiles/martinmorando/certificates/c5a07b3444c44fb0b3883075c5af51f4)
+  - 24/03/25: [Learn JavaScript (15h)](https://www.codecademy.com/profiles/martinmorando/certificates/705dcb15de0da4dd9d9fc4f3274b430e)
+  - 20/03/25: [Learn Statistics with NumPy (4h)](https://www.codecademy.com/profiles/martinmorando/certificates/43135f7494712f4c3b1ced1a55be7be1)
+  - 17/03/25: [Learn PHP Skill Path (17h)](https://www.codecademy.com/profiles/martinmorando/certificates/9b7bcc38d0ed49f593228763cbfd51e3)
+  - 14/03/25: [Learn Go (6h)](https://www.codecademy.com/profiles/martinmorando/certificates/60773d2e920679c8e46ff634b9ed2e6e)
+  - 04/03/25: [Learn C++ (11h)](https://www.codecademy.com/profiles/martinmorando/certificates/b74a2390dfc4127fa5d43fe147425ad0)
+  - 01/03/25: [Learn Advanced Python 3 (6h)](https://www.codecademy.com/profiles/martinmorando/certificates/9360ffd5f85216dc4fbe5b19fe1db5e4)
+  - 20/02/25: [Learn Intermediate Python 3 (20h)](https://www.codecademy.com/profiles/martinmorando/certificates/18580789eaba28f09e116f4fc2acec44)
+  - 03/02/25: [Learn Python 3 (23h)](https://www.codecademy.com/profiles/martinmorando/certificates/6c152bd262967f8c941c9707ed636bda)
+  - 28/01/25: [Learn the Command Line (4h)](https://www.codecademy.com/profiles/martinmorando/certificates/c87ba0541f8be78bc2f4ba1128233f6f)
+  - 24/01/25: [Learn SQL (5h)](https://www.codecademy.com/profiles/martinmorando/certificates/042a4e5884e3eb6ea1f2a12be6abb851)
 
-
-## Recent Courses
-Some courses I completed on Codecademy, which is an excellent platform for learning through hands-on experience at a small fraction of the cost of overpriced traditional universities.
-
-| Course    		                                                                                                                 | Hours (~) | Date completed |
-|--------------------------------------------------------------------------------------------------------------------------------|-----------|----------------|
-| [Learn Bash Scripting](https://www.codecademy.com/profiles/martinmorando/certificates/37c55263a9f1b1f7603f7551c293ecbd)        | 1         | 26/03/25       |
-| [Learn Go: Loops, Arrays, Maps, and Structs](https://www.codecademy.com/profiles/martinmorando/certificates/c5a07b3444c44fb0b3883075c5af51f4) | 4 | 26/03/25|
-| [Learn JavaScript](https://www.codecademy.com/profiles/martinmorando/certificates/705dcb15de0da4dd9d9fc4f3274b430e)            | 15        | 24/03/25       |
-| [Learn Statistics with NumPy](https://www.codecademy.com/profiles/martinmorando/certificates/43135f7494712f4c3b1ced1a55be7be1) | 4         | 20/03/25       |
-| [Learn PHP Skill Path](https://www.codecademy.com/profiles/martinmorando/certificates/9b7bcc38d0ed49f593228763cbfd51e3)        | 17        | 17/03/25       |
-| [Learn Go](https://www.codecademy.com/profiles/martinmorando/certificates/60773d2e920679c8e46ff634b9ed2e6e)                    | 6         | 14/03/25       |
-| [Learn C++](https://www.codecademy.com/profiles/martinmorando/certificates/b74a2390dfc4127fa5d43fe147425ad0) 			  	         | 11        | 04/03/25       |
-| [Learn Advanced Python 3](https://www.codecademy.com/profiles/martinmorando/certificates/9360ffd5f85216dc4fbe5b19fe1db5e4) 	   | 6         | 01/03/25       |
-| [Learn Intermediate Python 3](https://www.codecademy.com/profiles/martinmorando/certificates/18580789eaba28f09e116f4fc2acec44) | 20        | 20/02/25       |
-| [Learn Python 3](https://www.codecademy.com/profiles/martinmorando/certificates/6c152bd262967f8c941c9707ed636bda)     	       | 23        | 03/02/25       |
-| [Learn the Command Line](https://www.codecademy.com/profiles/martinmorando/certificates/c87ba0541f8be78bc2f4ba1128233f6f)      | 4         | 28/01/25       |
-| [Learn SQL](https://www.codecademy.com/profiles/martinmorando/certificates/042a4e5884e3eb6ea1f2a12be6abb851)     	             | 5         | 24/01/25       |
-
+[^1]: On Codecademy, which is an excellent platform for learning through hands-on experience at a small fraction of the cost of overpriced traditional universities.
+[^2]: I enjoy learning multiple subjects in parallel, as it encourages me to review the same information—and more importantly, experiment— over several weeks/months, which helps me with long-term retention. This approach explains why sometimes I complete several courses at once, while at other times, there may be seem to be gaps.
+Additionally, since I don't have to follow the stupid, unquestioned rules of the burocratic formal education system (such as having to retake an entire course instead of focusing on specific areas of improvement), I can learn more efficiently.
 
 ## My Story
 I started programming in 2010, inspired by watching *The Social Network* and realizing I could do more than just be a follower of technological news. Under the name *[doctortino](https://instagram.com/doctortino)*, I've launched several projects using the LAMP stack, primarily as a means of learning and artistic expression, while not giving the necessary attention to marketability.
