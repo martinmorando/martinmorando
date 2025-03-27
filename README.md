@@ -19,6 +19,7 @@ I share my code on GitHub as I prepare for my next major project or job opportun
   - 03/02/25: [Learn Python 3 (23h)](https://www.codecademy.com/profiles/martinmorando/certificates/6c152bd262967f8c941c9707ed636bda)
   - 28/01/25: [Learn the Command Line (4h)](https://www.codecademy.com/profiles/martinmorando/certificates/c87ba0541f8be78bc2f4ba1128233f6f)
   - 24/01/25: [Learn SQL (5h)](https://www.codecademy.com/profiles/martinmorando/certificates/042a4e5884e3eb6ea1f2a12be6abb851)
+- **Formal Studies**: ~96.8% Lic. en Gestión de Negocios y Tecnología @ ITBA
 
 [^1]: On Codecademy, which is an excellent platform for learning through hands-on experience at a small fraction of the cost of overpriced traditional universities.
 [^2]: I enjoy learning multiple subjects in parallel, as it encourages me to review the same information—and more importantly, experiment— over several weeks/months, which helps me with long-term retention. This approach explains why sometimes I complete several courses at once, while at other times, there may be seem to be gaps.
