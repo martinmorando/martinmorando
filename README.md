@@ -7,6 +7,7 @@ I share my code on GitHub as I prepare for my next major project or job opportun
   - Languages: [Bash](https://github.com/martinmorando/bash), [C++](https://github.com/martinmorando/cpp), [Go](https://github.com/martinmorando/golang), [HTML/CSS](https://github.com/martinmorando/htmlcss), [Java](https://github.com/martinmorando/java), [JavaScript](https://github.com/martinmorando/js), [PHP](https://github.com/martinmorando/php), [Python](https://github.com/martinmorando/python), [R](https://github.com/martinmorando/r), [Ruby](https://github.com/martinmorando/ruby), [SQL](https://github.com/martinmorando/sql)
   - Computer Science: [Data Structures & Algorithms (DSA)](https://github.com/martinmorando/dsa)
 - **Recent Courses**[^1] [^2]
+  - 28/03/25: [Learn Ruby (9h)](https://www.codecademy.com/profiles/martinmorando/certificates/1c05e0382bc5681c824c4cbe85c126fd)   
   - 26/03/25: [Learn Bash Scripting (1h)](https://www.codecademy.com/profiles/martinmorando/certificates/37c55263a9f1b1f7603f7551c293ecbd)
   - 26/03/25: [Learn Go: Loops, Arrays, Maps, and Structs (4h)](https://www.codecademy.com/profiles/martinmorando/certificates/c5a07b3444c44fb0b3883075c5af51f4)
   - 24/03/25: [Learn JavaScript (15h)](https://www.codecademy.com/profiles/martinmorando/certificates/705dcb15de0da4dd9d9fc4f3274b430e)
