@@ -17,6 +17,7 @@ I share my code on GitHub as I prepare for my next major project or job opportun
   - 04/03/25: [Learn C++ (11h)](https://www.codecademy.com/profiles/martinmorando/certificates/b74a2390dfc4127fa5d43fe147425ad0)
   - 01/03/25: [Learn Advanced Python 3 (6h)](https://www.codecademy.com/profiles/martinmorando/certificates/9360ffd5f85216dc4fbe5b19fe1db5e4)
   - 20/02/25: [Learn Intermediate Python 3 (20h)](https://www.codecademy.com/profiles/martinmorando/certificates/18580789eaba28f09e116f4fc2acec44)
+  - 09/02/25: [Learn Web Scraping with Beautiful Soup (2h)](https://www.codecademy.com/profiles/martinmorando/certificates/f4cba58fa21e556a6a8f5a975cef5388)
   - 03/02/25: [Learn Python 3 (23h)](https://www.codecademy.com/profiles/martinmorando/certificates/6c152bd262967f8c941c9707ed636bda)
   - 28/01/25: [Learn the Command Line (4h)](https://www.codecademy.com/profiles/martinmorando/certificates/c87ba0541f8be78bc2f4ba1128233f6f)
   - 24/01/25: [Learn SQL (5h)](https://www.codecademy.com/profiles/martinmorando/certificates/042a4e5884e3eb6ea1f2a12be6abb851)
