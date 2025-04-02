@@ -7,6 +7,7 @@ I share my code on GitHub as I prepare for my next major project or job opportun
   - Languages: [Bash](https://github.com/martinmorando/bash), [C++](https://github.com/martinmorando/cpp), [Go](https://github.com/martinmorando/golang), [HTML/CSS](https://github.com/martinmorando/htmlcss), [Java](https://github.com/martinmorando/java), [JavaScript](https://github.com/martinmorando/js), [Lua](https://github.com/martinmorando/lua), [PHP](https://github.com/martinmorando/php), [Python](https://github.com/martinmorando/python), [R](https://github.com/martinmorando/r), [Ruby](https://github.com/martinmorando/ruby), [SQL](https://github.com/martinmorando/sql)
   - Computer Science: [Data Structures & Algorithms (DSA)](https://github.com/martinmorando/dsa)
 - **Recent Courses**[^1] [^2]
+  - 02/04/25: [Learn Lua (4h)](https://www.codecademy.com/profiles/martinmorando/certificates/e3155e16a391460a9c570ed00c9f964b) 
   - 01/04/25: [Intro to AI Strategy (<1h)](https://www.codecademy.com/profiles/martinmorando/certificates/d6f9857857814649999f444381c75035)   
   - 31/03/25: [Learn Java (17h)](https://www.codecademy.com/profiles/martinmorando/certificates/d3f89367b558583e361640f778191345)
   - 30/03/25: [Influencing without Authority (<1h)](https://www.codecademy.com/profiles/martinmorando/certificates/9b0b3f28aa0d44e4832399cfa9be81d1)   
