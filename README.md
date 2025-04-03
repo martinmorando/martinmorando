@@ -7,6 +7,7 @@ I share my code on GitHub as I prepare for my next major project or job opportun
   - Languages: [Bash](https://github.com/martinmorando/bash), [C++](https://github.com/martinmorando/cpp), [Go](https://github.com/martinmorando/golang), [HTML/CSS](https://github.com/martinmorando/htmlcss), [Java](https://github.com/martinmorando/java), [JavaScript](https://github.com/martinmorando/js), [Lua](https://github.com/martinmorando/lua), [PHP](https://github.com/martinmorando/php), [Python](https://github.com/martinmorando/python), [R](https://github.com/martinmorando/r), [Ruby](https://github.com/martinmorando/ruby), [SQL](https://github.com/martinmorando/sql)
   - Computer Science: [Artificial Intelligence (AI)](https://github.com/martinmorando/ai), [Data Structures & Algorithms (DSA)](https://github.com/martinmorando/dsa)
 - **Recent Courses**[^1] [^2]
+  - 03/04/25: [Learn LOLCODE (1h)](https://www.codecademy.com/profiles/martinmorando/certificates/c3d9caa4d5b5eafd08472da3f2f0b41e) 
   - 03/04/25: [Encouraging Innovation and Experimentation with AI (<1h)](https://www.codecademy.com/profiles/martinmorando/certificates/1ca74308eb5949acadae543a4c07dae5) 
   - 02/04/25: [Intro to Generative AI (<1h)](https://www.codecademy.com/profiles/martinmorando/certificates/28ccb695c353465a8785a036ad32d3b9)  
   - 02/04/25: [Learn Lua (4h)](https://www.codecademy.com/profiles/martinmorando/certificates/e3155e16a391460a9c570ed00c9f964b) 
