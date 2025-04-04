@@ -7,6 +7,7 @@ I share my code on GitHub as I prepare for my next major project or job opportun
   - Languages: [Bash](https://github.com/martinmorando/bash), [C++](https://github.com/martinmorando/cpp), [Go](https://github.com/martinmorando/golang), [HTML/CSS](https://github.com/martinmorando/htmlcss), [Java](https://github.com/martinmorando/java), [JavaScript](https://github.com/martinmorando/js), [LOLCODE](https://github.com/martinmorando/lolcode), [Lua](https://github.com/martinmorando/lua), [PHP](https://github.com/martinmorando/php), [Python](https://github.com/martinmorando/python), [R](https://github.com/martinmorando/r), [Ruby](https://github.com/martinmorando/ruby), [SQL](https://github.com/martinmorando/sql)
   - Computer Science: [Artificial Intelligence (AI)](https://github.com/martinmorando/ai), [Data Structures & Algorithms (DSA)](https://github.com/martinmorando/dsa)
 - **Recent Courses**[^1] [^2]
+  - 04/04/25: [Machine Learning: Introduction with Regression (3h)](https://www.codecademy.com/profiles/martinmorando/certificates/bfea7580cc9541c58895c50b15feb310)  
   - 03/04/25: [Learn Intermediate PHP (4h)](https://www.codecademy.com/profiles/martinmorando/certificates/265bef867da9492fb4bb193cc0841f99) 
   - 03/04/25: [Learn LOLCODE (1h)](https://www.codecademy.com/profiles/martinmorando/certificates/c3d9caa4d5b5eafd08472da3f2f0b41e) 
   - 03/04/25: [Encouraging Innovation and Experimentation with AI (<1h)](https://www.codecademy.com/profiles/martinmorando/certificates/1ca74308eb5949acadae543a4c07dae5) 
