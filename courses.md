@@ -9,6 +9,7 @@
 - [Recognizing Hallucinations, Inaccuracies, and Bias in AI (<1h)](https://www.codecademy.com/learn/ext-courses/recognizing-hallucinations-inaccuracies-and-bias-in-ai) - [certificate](https://www.codecademy.com/profiles/martinmorando/certificates/1749aeec9b174fabab933fc63449bc34)
 - [Learn the OpenAI API Playground (<1h)](https://www.codecademy.com/learn/learn-the-open-ai-api-playground) - [certificate](https://www.codecademy.com/profiles/martinmorando/certificates/5e7a90e1bdf24df98a3343778badb377)
 - [Intro to OpenAI API (<1h)](https://www.codecademy.com/learn/intro-to-open-ai-gpt-api) - [certificate](https://www.codecademy.com/profiles/martinmorando/certificates/3b2c5de258e6407cae576d66bfef9e91)
+- [Getting Started with Natural Language Processing (1h)](https://www.codecademy.com/learn/natural-language-processing) - [certificate](https://www.codecademy.com/profiles/martinmorando/certificates/b6d2d1d0d1c2d9dfae7a6ea0197354ba)
 
 ### Bash
 - [Learn the Command Line (4h)](https://www.codecademy.com/learn/learn-the-command-line) - [certificate](https://www.codecademy.com/profiles/martinmorando/certificates/c87ba0541f8be78bc2f4ba1128233f6f)
