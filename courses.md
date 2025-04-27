@@ -59,3 +59,4 @@
 - [Influencing without Authority (<1h)](https://www.codecademy.com/learn/ext-courses/influencing-without-authority) - [certificate](https://www.codecademy.com/profiles/martinmorando/certificates/9b0b3f28aa0d44e4832399cfa9be81d1)
 - [Intro to AI Strategy (<1h)](https://www.codecademy.com/learn/intro-to-ai-strategy) - [certificate](https://www.codecademy.com/profiles/martinmorando/certificates/d6f9857857814649999f444381c75035)
 - [Encouraging Innovation and Experimentation with AI (<1h)](https://www.codecademy.com/learn/ext-courses/encouraging-innovation-and-experimentation-with-ai) - [certificate](https://www.codecademy.com/profiles/martinmorando/certificates/1ca74308eb5949acadae543a4c07dae5)
+- [Navigating Micro-behavior Dynamics in the Workplace (<1h)](https://www.codecademy.com/learn/ext-courses/navigating-micro-behavior-dynamics-in-the-workplace) - [certificate](https://www.codecademy.com/profiles/martinmorando/certificates/7a72ceea227b4ed394a6090b4bbbdaa9)
