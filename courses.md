@@ -47,6 +47,7 @@
 - [Learn Intermediate Python 3 (20h)](https://www.codecademy.com/learn/learn-intermediate-python-3) - [certificate](https://www.codecademy.com/profiles/martinmorando/certificates/18580789eaba28f09e116f4fc2acec44)
 - [Learn Advanced Python 3 (6h)](https://www.codecademy.com/learn/learn-advanced-python) - [certificate](https://www.codecademy.com/profiles/martinmorando/certificates/9360ffd5f85216dc4fbe5b19fe1db5e4)
 - [Learn Statistics with NumPy (4h)](https://www.codecademy.com/learn/intro-statistics-numpy) - [certificate](https://www.codecademy.com/profiles/martinmorando/certificates/43135f7494712f4c3b1ced1a55be7be1)
+- [Learn Data Analysis with Pandas (6h)](https://www.codecademy.com/learn/data-processing-pandas) - [certificate](https://www.codecademy.com/profiles/martinmorando/certificates/95dd3ed417d7d6c449afffc6401b310a)
 
 ### Raspberry Pi
 - [Learn Raspberry Pi: Command Line (1h)](https://www.codecademy.com/learn/learn-raspberry-pi-command-line) - [certificate](https://www.codecademy.com/profiles/martinmorando/certificates/c2ad5c256cfa4da2b25a6b7bfc9a96e1)
